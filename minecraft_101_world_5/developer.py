@@ -14,7 +14,8 @@ agent.move(FORWARD, 7)
 agent.place(FORWARD)
 
 # Part 2
-agent.move(BACK, 7)
-agent.collect_all()
-agent.move(FORWARD, 7)
-agent.place(FORWARD)
+for i in range(4):
+    agent.move(BACK, 7)
+    agent.collect_all()
+    agent.move(FORWARD, 7)
+    agent.place(FORWARD)
