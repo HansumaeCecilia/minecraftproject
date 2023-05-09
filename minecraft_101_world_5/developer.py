@@ -1,5 +1,5 @@
 #*****************************************************  
-# First task of Python 101, world 5
+# 1st task of Python 101, world 5
 # developer.py 
 # @author: CK  
 # @since: Version date 09/05/2023  
